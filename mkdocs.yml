@@ -1,0 +1,21 @@
+site_name: Han Senni
+site_description: Everything Han Senni.
+site_author: Han Senni
+
+theme:
+  name: null
+  custom_dir: 'simple-blog/'
+  locale: en
+  theme_style: dark
+  components:
+    title: false
+    preview: false
+  site_name_style: underline
+  favicon: img/favicon.ico
+
+nav:
+  - Home: index.md 
+  - About Me: about.md 
+  - DNI/BYF: dni.md
+
+plugins: []
