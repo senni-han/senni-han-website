@@ -1,4 +1,4 @@
-# Source code for senni-han.github.> [!IMPORTANT]
+# Source code for senni-han.github.io
 
 This repository is used to host source code for https://senni-han.github.io
 
