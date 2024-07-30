@@ -1,6 +1,10 @@
 # About me, in details.
 
-![EmuOtori](img/EmuOtori1.webp)
+---
+
+<p align="center">
+  <img src="Kasa.gif" alt="TsukasaAboutMe" width="20%"/>
+</p>
 
 ## Who's Han Senni, actually?
 

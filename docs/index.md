@@ -1,8 +1,16 @@
-# Hi there, it's Han! 
+<h1 style="text-align: center;">Hi there, it's Han!</h1>
+<p align="center">
+  <img src="img/EmuOtori2.webp" alt="EmuOtoriWahaha" width="20%"/>
+</p>
+---
 
-![EmuOtoriWahaha](img/EmuOtori2.webp)
+<div class="text-center">
+<a href="https://x.com/senni_han">Contact me on X</a>&emsp;&emsp;&emsp;
+<a href="https://github.com/senni-han">Check my GitHub</a>
+</div>
 
-I'm a linux enthusiast audiophile motorcyclist, nice to meet you!
+I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
+
 
 ## Some brief information about who I am
 
@@ -30,4 +38,7 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!
 - Hi-Fi music listening, and audio equipments
 - Several Artists (Muse, Ado, Various Vocaloid/UTAU/SynthV producers)
 
+<p align="center">
+  <img src="img/wxs.gif" alt="WxSbanner" width="50%"/>
+</p>
 
