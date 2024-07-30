@@ -2,6 +2,8 @@
 
 This list only applies to social media platforms, such as X (Formerly Twitter), Instagram, etc.
 
+---
+
 ## BYF (Before You Follow) Lists
 
 - If I ever said something problematic, inappropriate, or weird in general, feel free to DM about my actions
