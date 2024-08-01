@@ -5,7 +5,7 @@
 ---
 
 <div class="text-center">
-<a href="https://x.com/senni_han">Contact me on X</a>&emsp;&emsp;
+<a href="https://forms.gle/E3Lyi8HyTFduJheh9">Send me an anonymous mail</a>&emsp;&emsp;
 <a href="https://github.com/senni-han">Visit my GitHub</a>
 </div>
 
@@ -22,10 +22,9 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 
 ## Where to find me 
 
-- [Send me an anonymous mail](https://forms.gle/E3Lyi8HyTFduJheh9)
+- [Email me](mailto:shuemwang.han@gmail.com)
 - [Han's Ride & Audio (YouTube Channel)](https://youtube.com/@han_ride_audio)
 - [Github Page](https://github.com/senni-han)
-- [Twitter/X](https://x.com/senni_han)
 - [Instagram](https://instagram.com/senni_han)
 
 ## Interests
