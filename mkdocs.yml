@@ -1,6 +1,7 @@
 site_name: Han Senni
 site_description: Everything Han Senni.
 site_author: Han Senni
+repo_url: https://github.com/senni-han/senni-han-website
 
 theme:
   name: null

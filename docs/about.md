@@ -12,6 +12,15 @@ I'm Han Senni! The phrase that could describe me the best is "Linux-obsessed aud
 
 I am mainly in Sky: Children of the Light and Project Sekai fandom, though I also play other video games such as Half-Life series, Left 4 Dead 2, Project Diva series, Gran Turismo Series, GRID Legends, and Ride: Game.
 
+I also take photographs (mainly landscape and street photography), with my following camera gear :
+
+- Canon EOS 60D 
+- Canon EF50mm f/1.8 STM
+- Canon EF-S18-135 f/3.5-5.6 IS
+- Canon EF75-300 f/4-5.6 
+
+and I have been posting and selling my photos on my [Shutterstock account](https://shutterstock.com/g/senni_han), with plans to sell my printed photos in near future.
+
 ## What I have done and contributed.
 
 In my Linux journey, I have contributed to translation for Ubuntu, and I used to contributed for translation for Vanilla OS. I have a [YouTube Channel](https://youtube.com/@han_ride_audio) for my motorcycling career. I am fairly active in tech communities, giving supports and advices for newcomers.
