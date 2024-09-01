@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hi there, it's Han!</h1>
 <p align="center">
-  <img src="img/EmuOtori2.webp" alt="EmuOtoriWahaha" width="35%"/>
+  <img src="img/stamp0204.png" alt="Mafuyu" width="30%"/>
 </p>
 ---
 
@@ -26,7 +26,9 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 - [Shutterstock](https://shutterstock.com/g/senni_han)
 - [Han's Ride & Audio (YouTube Channel)](https://youtube.com/@han_ride_audio)
 - [Github Page](https://github.com/senni-han)
-- [Instagram](https://instagram.com/senni_han)
+- [Instagram (Personal)](https://instagram.com/senni_han)
+- [Instagram (YouTube Channel)](https://instagram.com/han_ride_audio)
+- [Instagram (Photography)](https://instagram.com/han.senni_photos)
 
 ## Interests
 
@@ -37,7 +39,7 @@ I'm a linux enthusiast audiophile motorcyclist, nice to meet you!<br/>
 - Motovlogging
 - Photographing
 - Hi-Fi music listening, and audio equipments
-- Several Artists (Muse, Ado, Various Vocaloid/UTAU/SynthV producers)
+- Several Artists (Muse, AURORA, Ado, Various Vocaloid/UTAU/SynthV producers)
 
 <p align="center">
   <img src="img/wxs.gif" alt="WxSbanner" width="50%"/>
